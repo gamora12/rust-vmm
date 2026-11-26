@@ -2,7 +2,7 @@
 
 Microsoft Hypervisor wrappers. This repository provides two crates which are
 mshv-bindings and mshv-ioctls. These crates will provide the APIs and
-definitions to create a VMM on Microsoft Hypervisor along with other rust-vmm
+definitions to create a VMM on Microsoft Hypervisor along with the other rust-vmm
 crates.
 
 ## Supported Platforms
