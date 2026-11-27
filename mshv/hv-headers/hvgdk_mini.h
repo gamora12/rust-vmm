@@ -1,6 +1,6 @@
 /* SPDX-License-Identifier: GPL-2.0 */
 /*
- * Type definitions for the hypervisor guest interface to kernel.
+ * Type definitions for the hypervisor guest interface to the kernel.
  */
 #ifndef _HVGDK_MINI_H
 #define _HVGDK_MINI_H
